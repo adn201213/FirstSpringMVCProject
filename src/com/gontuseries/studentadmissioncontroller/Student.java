@@ -1,13 +1,13 @@
 package com.gontuseries.studentadmissioncontroller;
 
 public class Student {
-private String firstName;
+private String studentName;
 private String hobby;
-public String getFirstName() {
-	return firstName;
+public String getStudentName() {
+	return studentName;
 }
-public void setFirstName(String firstName) {
-	this.firstName = firstName;
+public void setStudentName(String studentName) {
+	this.studentName = studentName;
 }
 public String getHobby() {
 	return hobby;

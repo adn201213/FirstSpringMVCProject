@@ -7,7 +7,7 @@
 			Student's Name : <input type="text" name="studentName" />
 		</p>
 		<p>
-			Student's Hobby : <input type="text" name="studentHobby" />
+			Student's Hobby : <input type="text" name="hobby" />
 		</p>
 		<input type="submit" value="Submit this form by clicking here" />
 	</form>

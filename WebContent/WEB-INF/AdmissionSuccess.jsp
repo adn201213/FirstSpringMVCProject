@@ -1,13 +1,13 @@
 <html>
 <body>
-	<h1>Congratulations!! the Engineering college has processed your Application form successfully</h1>
+	<h2>Congratulations!! the Engineering college has processed your Application form successfully</h2>
  
-	<h2>${headMessage}</h2>
+	
 	<h2>Details submitted by you</h2>
- <table>
+ <table border=1>
  <tr>
  <td>student Name</td>
- <td>${student.firstName}</td>
+ <td>${student.studentName}</td>
  </tr>
   <tr>
  <td>student Hobby</td>
