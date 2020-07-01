@@ -49,7 +49,7 @@ public class StudentAdmissionController {
 	public ModelAndView submitAdmissionForm(@ModelAttribute("student") Student student) {
      
 		ModelAndView model = new ModelAndView("AdmissionSuccess");
-		model.addObject("headMessage","Details submitted by you:");
+	//	model.addObject("headMessage","Details submitted by you:");
        
 		return model;
 	}
